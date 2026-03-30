@@ -26,7 +26,9 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>Apna Video Call</h2>
+                    <h2 style={{ color: "#2c3e50", fontWeight: "bold" }}>
+                       MeetX <span style={{ color: "red" }}>❤️</span>
+                    </h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>

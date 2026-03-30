@@ -56,7 +56,15 @@ function HomeComponent() {
             <div className="meetContainer">
                 <div className="leftPanel">
                     <div>
-                        <h2>Providing Quality Video Call Just Like Quality Education</h2>
+                        <h1><span style={{ color: "#FF9839" }}>Connect</span> with anyone, anywhere</h1>
+
+<p style={{ fontStyle: "italic", color: "#555" }}>
+    "Bridging distances with MeetX ❤️"
+</p>
+
+              <div style={{ marginTop: "20px" }}>
+                   <p style={{ fontWeight: "bold" }}>Enter Meeting Code to Join:</p>
+                </div>
 
                         <div style={{ display: 'flex', gap: "10px" }}>
 

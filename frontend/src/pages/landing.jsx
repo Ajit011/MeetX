@@ -26,7 +26,7 @@ export default function LandingPage() {
                 <div>
                     <h1><span style={{ color: "#FF9839" }}>Connect</span> with your loved Ones</h1>
                     
-                    {/* Yahan maine change kar diya hai */}
+                    
                     <p>Experience seamless connections with MeetX ❤️</p>
                     
                     <div role='button'>
